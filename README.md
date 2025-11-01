@@ -67,3 +67,7 @@ Designed by **Shubham Kadbhane**
 ### 🏁 Summary
 
 This Glass Card UI marks the beginning of my **UI/UX design journey**. It helped me get hands-on experience with Figma, learn modern interface design principles, and set the foundation for more complex and interactive projects in the future.
+
+
+
+Note: This Project is deployed on vercel 
